@@ -3,6 +3,6 @@
 ### PARTE 2
 #### Roles del equipo (Scrum)
 
-- Product Owner: Juan Villegas
+- Product Owner: Juan Manuel Villegas
 - Scrum Master: Juan José Laverde
 - Desarrollador: Villegas-Laverde
