@@ -55,3 +55,9 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 5. Backlog:
 
 ![alt text](image-18.png)
+
+6. Sprint Backlog
+
+![alt text](image-19.png)
+
+Para este primer sprint, decidimos priorizar exclusivamente la HU-01: Consignación por cliente (SCRUM-6) por ser la funcionalidad crítica que habilita la operación de Bankify. Al ser un equipo de dos integrantes, optamos por esta carga de trabajo para asegurar una arquitectura inicial robusta y realizar pruebas exhaustivas sin comprometer la calidad del código. Esta planeación nos permite gestionar de manera equilibrada las subtareas de lógica y validación ya asignadas entre Juan Jose y Juan Manuel (SCRUM-22, SCRUM-23 y SCRUM-24), garantizando un flujo de depósito totalmente operativo y seguro.
