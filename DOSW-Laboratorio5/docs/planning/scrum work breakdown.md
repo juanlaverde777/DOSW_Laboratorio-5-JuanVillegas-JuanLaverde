@@ -80,6 +80,22 @@
 
 ---
 
-## Observaciones y alcance
-- 
+## Parte 4 
+
+Se agrega el link con el video de la votacion mediante Planning Poker 
+
+https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/juan_laverde-r_mail_escuelaing_edu_co/IQCMF2XUzsN-SLA1Z0SbGi2CAX7ivID3yT5A5XL2Anfvj8o?e=UqH9zu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+a. ¿Cuál fue la mayor dificultad a la hora de estimar?
+
+La mayor dificultad que enfrentamos fue cuantificar el equilibrio entre la lógica de negocio y los requisitos no funcionales, especialmente en temas de seguridad y validación de datos. Tuvimos que analizar cuidadosamente cómo procesos que parecen sencillos desde la perspectiva del usuario implican una complejidad técnica mayor en el backend para garantizar que todas las transacciones se realicen de forma íntegra y sin errores de persistencia.
+
+b. ¿Fue fácil llegar a un consenso?
+
+Sí, logramos alcanzar el consenso de manera eficiente gracias a que mantuvimos una comunicación constante y directa durante toda la sesión. El uso de la técnica de Planning Poker fue clave en este proceso, ya que nos permitió identificar rápidamente los puntos donde nuestras percepciones sobre el esfuerzo diferían, obligándonos a discutir los detalles técnicos de cada historia antes de asignar un valor definitivo.
+
+c. ¿Cómo resolvieron los escenarios donde las estimaciones para la misma historia de usuario no fueron cercanas?
+
+En los casos donde hubo disparidad en las cifras, aplicamos el principio de debate técnico. Cada integrante expuso los argumentos detrás de su elección; por lo general, la estimación más alta se debía a la identificación de riesgos o tareas adicionales, como pruebas de integración o validaciones de seguridad, que el otro integrante no había contemplado. Al final, optamos por la estimación que garantizara una cobertura completa del desarrollo y la calidad del producto, evitando subestimar el trabajo necesario.
 
