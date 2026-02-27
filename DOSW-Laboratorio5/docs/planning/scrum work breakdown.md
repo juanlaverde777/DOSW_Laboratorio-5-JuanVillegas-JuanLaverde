@@ -99,3 +99,7 @@ c. ¿Cómo resolvieron los escenarios donde las estimaciones para la misma histo
 
 En los casos donde hubo disparidad en las cifras, aplicamos el principio de debate técnico. Cada integrante expuso los argumentos detrás de su elección; por lo general, la estimación más alta se debía a la identificación de riesgos o tareas adicionales, como pruebas de integración o validaciones de seguridad, que el otro integrante no había contemplado. Al final, optamos por la estimación que garantizara una cobertura completa del desarrollo y la calidad del producto, evitando subestimar el trabajo necesario.
 
+Estimaciones Definidas en el jira
+
+<img width="749" height="150" alt="image" src="https://github.com/user-attachments/assets/a3a83900-ccc2-4444-9e28-3028ec8b7e56" />
+
